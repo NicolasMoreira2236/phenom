@@ -1,0 +1,5 @@
+@mixin textonos{
+    background-image: map-get($tituloservicio, color);
+    color: transparent;
+    -webkit-background-clip: text;
+}
