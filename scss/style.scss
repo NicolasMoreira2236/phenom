@@ -40,6 +40,7 @@ h1 {
     color: transparent;
     -webkit-background-clip: text;
   }
+  
 }
 
 footer img {
@@ -62,6 +63,10 @@ footer img {
       transform: translateX(0px);
     }
   }
+  #imgmensaje{
+    width: 20%;
+  }
+  
   header img {
     animation: from-left 1.5s ease;
   }
@@ -118,5 +123,8 @@ footer img {
   #form1 {
     width: 30%;
     margin-left: 35.5%;
+  }
+  #imgmensaje{
+    width: 50%;
   }
 }
